@@ -1,4 +1,4 @@
-### Hi, I’m Sakunit. Call me F. 👋
+### Hi, I’m Sakunit (Call me F) 👋
 
 <!--
 **milkiezi/milkiezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
