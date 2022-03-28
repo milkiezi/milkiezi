@@ -1,5 +1,6 @@
 ### Hi, I’m Sakunit (Call me F) 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkiezi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **milkiezi/milkiezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
